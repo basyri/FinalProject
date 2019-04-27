@@ -150,27 +150,7 @@ a.text-danger:focus {
     border-color: #dbdbdb
 }
 
-.btn-default.disabled,
-.btn-default.disabled.active,
-.btn-default.disabled.focus,
-.btn-default.disabled:active,
-.btn-default.disabled:focus,
-.btn-default.disabled:hover,
-.btn-default[disabled],
-.btn-default[disabled].active,
-.btn-default[disabled].focus,
-.btn-default[disabled]:active,
-.btn-default[disabled]:focus,
-.btn-default[disabled]:hover,
-fieldset[disabled] .btn-default,
-fieldset[disabled] .btn-default.active,
-fieldset[disabled] .btn-default.focus,
-fieldset[disabled] .btn-default:active,
-fieldset[disabled] .btn-default:focus,
-fieldset[disabled] .btn-default:hover {
-    background-color: #e0e0e0;
-    background-image: none
-}
+
 
 .btn-primary {
     background-image: -webkit-linear-gradient(top, #337ab7 0, #265a88 100%);
